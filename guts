@@ -1,5 +1,8 @@
 
-
+//Daneil Hall
+//ITSE
+//April 27, 2017
+//Calculates average for up to 4 integers
 
   public double average (int num1, int num2)
      {
