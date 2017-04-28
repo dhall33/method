@@ -4,7 +4,9 @@
 //April 27, 2017
 //Calculates average for up to 4 set doubleegers
 
-public static class method void main(String[]strArgs) {
+public class method {
+
+public static void main(String[]strArgs) {
 
 double num1 = 1;
 double num2 = 2;
