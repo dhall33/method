@@ -2,29 +2,28 @@
 //Daneil Hall
 //ITSE
 //April 27, 2017
-//Calculates average for up to 4 set integers
+//Calculates average for up to 4 set doubleegers
 
-public static void main(String[]strArgs) {
+public static class method void main(String[]strArgs) {
 
-int num1 = 1;
-int num2 = 2;
-int num3 = 3;
-int num4 = 4;
+double num1 = 1;
+double num2 = 2;
+double num3 = 3;
+double num4 = 4;
 
-  public double average (int num1, int num2)
-     {
+  public double average (double num1, double num2){
         return ((num1+num2) / 2.0);
      }
 
-public double average (int num1, int num2, int num3) {
+public double average (double num1, double num2, double num3) {
    return ((num1+num2+num3) / 3.0);
    }
  
- public double average (int num1, int num2, int num3,                       
-   int num4)
-   {
+ public double average (double num1, double num2, double num3,                       
+   double num4){
       return ((num1+num2+num3+num4) / 4.0);
    }
  }
+
    
  
